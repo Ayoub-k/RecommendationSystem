@@ -12,9 +12,9 @@
 
 Your tasks in this project are as follows:
 
-- Step 1: Data collection (carpe and extract data from many sources like web web site, database sql, files scv and Api)
+- Step 1.1: Data collection (scarpe and extract data from many sources like web site, database sql, files scv and Api)
 
-- Data wrangling
+- Step 1.2: Data wrangling
 
 - Step 2: Data evaluation
 
