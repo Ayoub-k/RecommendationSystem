@@ -7,14 +7,14 @@
 - Exploratory visualizations with matplotlib and seaborn libraries: countplot, hist, scatter, pairplot, boxplot, barplot.
 - Machine learning: Cosine similarity, Collaborative Filtering Using Knn, Collaborative Filtering Using Matrix Factorization
 
-## Dataset
-- .
 
 ## Overview of the project steps
 
 Your tasks in this project are as follows:
 
-- Step 1: Data collection
+- Step 1: Data collection (carpe and extract data from many sources like web web site, database sql, files scv and Api)
+
+- Data wrangling
 
 - Step 2: Data evaluation
 
@@ -27,10 +27,6 @@ Your tasks in this project are as follows:
 - Step 5: Analyze and visualize the data
 
 - Step 6: Creating model to predict
-
-### Workflow
-
-- .
 
 ## Files:
 
